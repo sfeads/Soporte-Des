@@ -1,0 +1,102 @@
+::before, ::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.formulario{
+    padding-top: 1rem;
+    display: flex;
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 100%;
+}
+
+form{
+    background: #fff;
+    padding: 1.5rem 1.5rem 0 ;
+    box-shadow: 0 0 0.6rem 0 rgba(255, 255, 255, alpha);
+    border-radius: 1.5rem 1.5rem 0rem 0;
+    width: 100%;
+}
+
+.form{
+    width: 100%;
+    margin: auto;
+
+}
+
+form .grupo{
+    position: relative;
+    margin:1rem 0 0rem 0;
+}
+
+input{
+    background: none;
+    font-size: 1rem;
+    padding: 1.5rem 0rem 0.9rem;
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 0.1rem solid var(--gris) ;
+    color: var(--gris);
+}
+
+input:focus{
+    outline: none;
+    color: rgb(94,93,93);
+}
+
+label{
+    color: var(--gris);
+    font-size: 0.8rem;
+    position: absolute;
+    top: 0rem;
+    transition: 0.5s ease-in-out all;
+    pointer-events: none;
+}
+
+input:focus∼label{
+    top: -5rem;
+    font-size: 0.7rem;
+}
+
+.barra{
+    position: relative;
+    display: block;
+    width: 100%;
+}
+
+input:focus∼.barra::before{
+    width: 100%;
+}
+
+.barra::before{
+    content: "";
+    height: 1rem;
+    width: 0%;
+    bottom: 0;
+    position: absolute;
+    background: linear-gradient(313.78deg, #2855AE -3.15%, #7292CF 100%);
+    transition: 0.3s ease width;
+    left: 0;
+}
+
+button{
+    font-family: 'Source Sans Pro', sans-serif;
+    background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    border: none;
+    display: block;
+    width: 100%;
+    margin: 3rem auto;
+    color: var(--blanco);
+    height: 3rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 0.5rem;
+}
+
+.conector{
+    display: block;
+    float: right;
+    color: var(--negro);
+}

@@ -1,0 +1,43 @@
+
+
+.logo{
+    width: 20rem;
+    height: 15rem;
+    display: flex;
+}
+
+.texto-cuadro{
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 10rem;
+
+
+    margin-left: 1.5rem;
+}
+
+.Tituloo{
+    color: #fff;
+    font-size: 1.8rem;
+}
+
+.titulo2{
+    color: #fff;
+
+    mix-blend-mode: normal;
+    opacity: 0.61;
+    font-size: 1rem;
+    
+}
+
+.flecha{
+ 
+    flex: auto;
+    margin: 2rem 0 0 1rem;
+    width: 2rem;
+    height: 2rem;
+    align-items: center;
+}
+
+.formulario-height{
+    height: 23.4rem;
+
+}

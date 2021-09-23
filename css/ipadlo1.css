@@ -1,0 +1,11 @@
+form{
+    background: #fff;
+    padding: 4rem 1.5rem 0 ;
+    box-shadow: 0 0 0.6rem 0 rgba(255, 255, 255, alpha);
+    border-radius: 1.5rem 1.5rem 1.5rem 1.5rem;
+    height: 28rem ;
+}
+
+body{
+    height: 62rem;
+}
