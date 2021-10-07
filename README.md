@@ -1,5 +1,5 @@
 # Portafolio IV Periodo
-![LogoSCL-05](https://user-images.githubusercontent.com/79545684/136439996-6382fd37-94d4-41a3-be7e-0da68d654a7b.png)
+![LogoSCL-03](https://user-images.githubusercontent.com/79545684/136442656-028bee53-2960-4980-b905-594f143bfbb2.png)
 ###### Diseño Computarizado / 2021
 
 
@@ -79,3 +79,5 @@
 | Organización  |  Investigación | Propósito |
 | :------------: | :------------: |
 | Hacer un horario el cual me envíe recordatorios sobre mis tareas para poder realizarlas a tiempo y con el mejor desempeño  | Buscar nuevas fuentes en las cuales pueda adquirir información acertada sobre los temas o trabajos | Poner mucho más empeño y dedicación para ser un mejor diseñador y programador1| |
+
+
