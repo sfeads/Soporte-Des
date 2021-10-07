@@ -1,86 +1,81 @@
-Portada✨:
-
--Portafolio IV Periodo 2021
-![LogoSCL-03](https://user-images.githubusercontent.com/79545684/136427458-db6a4500-3dee-42f8-b41d-a88dc67d4189.png)
-
+# Portafolio IV Periodo
+![LogoSCL-05](https://user-images.githubusercontent.com/79545684/136439996-6382fd37-94d4-41a3-be7e-0da68d654a7b.png)
+###### Diseño Computarizado / 2021
 
 
-Anteportada🎉:
+------------
 
--José Julián Sampuel Chinchilla
+# Anteportada
+- José Julián Sampuel Chinchilla
+- Colegio Santa Catalina Laboure
+- IV Bachillerato en Ciencias y Letras con Orientación en Diseño Gráfico
+- Diseño Computarizado
+- Jossue Emmanuel Fuentes
 
--Colegio Santa Catalina Laboure
+------------
 
--IV Bachillerato en Ciencias y Letras con Orientación en Diseño Gráfico
+# Indice
 
--Diseño Computarizado
+- Portada ---------------- 01
+- Anteportada ------------ 02
+- Indice ------------------ 03
+- Objetivos --------------- 04
+- Splash ------------------ 05
+- Login 01 ---------------- 06
+- Login 02 ---------------- 07
+- Link General ------------- 08
+- Objetivos Futuros -------- 09
 
--Jossue Emmanuel Fuentes
 
--
--
--
+------------
 
-Indice🎭:
+# Objetivos
+|  Saber | Saber hacer  | Saber ser y estar |
+| ------------ | ------------ |
+|  Analizar y comprender la programación HTML5 al 100% para que pueda utilizarlo sin dificultad alguna | Saber manejar y trabajar todo tipo de programación y soportes de una forma eficáz    | Practicar e investigar más sobre el tema para ser mucho mejor día a día | |
 
-Splash --------------------- 01
 
-Login No.1 ----------------- 02
+------------
 
-Login No.2 ----------------- 03
+# Splash 01
 
-Link General --------------- 04
+###### En esta actividad debíamos de replicar el wireframe splash de School ERP
 
--
--
--
-
-Objetivos🔒:
-
--Saber: Analizar y comprender la programación de HTML5 al 100% para que pueda utilizarlo sin dificultad alguna
-
--Saber hacer: Manejar y trabjar todo tipo de programación y soportes de una forma eficaz y efectiva
-
--Saber ser y estar: Practicar e investigar mas sobre el tema para ser mucho mejor día a día
-
--
--
--
-
-Documentación🎲:
-
-01- Splash ------ https://sfeads.github.io/Soporte-Descktop/index.html
 ![image](https://user-images.githubusercontent.com/79545684/136429544-f128532b-1102-48b7-adf4-9ebccbab3f9c.png)
+###### Link directo: https://sfeads.github.io/Soporte-Descktop/index.html
 
--
--
 
-02- Login 01 ------ https://sfeads.github.io/Soporte-Descktop/login.html
+------------
+
+
+------------
+
+# Login No.1
+
+###### En esta actividad debíamos de replicar el wireframe Login 01 de School ERP
+
+
 ![image](https://user-images.githubusercontent.com/79545684/136429745-b2140ee0-3a45-4f14-8966-05cb09535abb.png)
+###### Link directo: https://sfeads.github.io/Soporte-Descktop/login.html
+
+------------
 
 
--
--
+------------
 
-03- Login 02 ----- https://sfeads.github.io/Soporte-Descktop/login2.html
+# Login No.2
+
+###### En esta actividad debíamos de replicar el wireframe Login 02 de School ERP
+
 ![image](https://user-images.githubusercontent.com/79545684/136431470-58ef703d-60ca-42b2-b3ef-fa049f178b0f.png)
+###### Link directo: https://sfeads.github.io/Soporte-Descktop/login2.html
 
--
--
-
-04- Link General ----- https://sfeads.github.io/Soporte-Descktop/index.html
-![image](https://user-images.githubusercontent.com/79545684/136429544-f128532b-1102-48b7-adf4-9ebccbab3f9c.png)
+------------
 
 
+------------
 
--
--
--
-
-Objetivos Futuros💎:
-
--Organización: Hacer un horario el cual me envie recordatorios constatnes sobre mis tareas para tener un buen desempeño
-
--Investigación: Buscar nuevas fuentes en las cuales pueda adquirir información acertada sobre los temas o trabajos
-
--Propósito: Poner mucho más empeño y dedicación para ser un mejor diseñador y programador
+# Objetivos Futuros
+| Organización  |  Investigación | Propósito |
+| :------------: | :------------: |
+| Hacer un horario el cual me envíe recordatorios sobre mis tareas para poder realizarlas a tiempo y con el mejor desempeño  | Buscar nuevas fuentes en las cuales pueda adquirir información acertada sobre los temas o trabajos | Poner mucho más empeño y dedicación para ser un mejor diseñador y programador1| |
