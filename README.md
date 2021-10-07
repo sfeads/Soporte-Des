@@ -23,8 +23,7 @@
 - Splash ------------------ 05
 - Login 01 ---------------- 06
 - Login 02 ---------------- 07
-- Link General ------------- 08
-- Objetivos Futuros -------- 09
+- Objetivos Futuros -------- 08
 
 
 ------------
@@ -77,7 +76,11 @@
 
 # Objetivos Futuros
 | Organización  |  Investigación | Propósito |
+
+
 | :------------: | :------------: |
+
+
 | Hacer un horario el cual me envíe recordatorios sobre mis tareas para poder realizarlas a tiempo y con el mejor desempeño  | Buscar nuevas fuentes en las cuales pueda adquirir información acertada sobre los temas o trabajos | Poner mucho más empeño y dedicación para ser un mejor diseñador y programador1| |
 
 
