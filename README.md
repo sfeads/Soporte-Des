@@ -41,7 +41,7 @@
 ###### En esta actividad debíamos de replicar el wireframe splash de School ERP
 
 ![image](https://user-images.githubusercontent.com/79545684/136429544-f128532b-1102-48b7-adf4-9ebccbab3f9c.png)
-###### Link directo: https://sfeads.github.io/Soporte-Descktop/index.html
+###### Link directo: https://sfeads.github.io/Soporte-Des/
 
 
 ------------
@@ -55,7 +55,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/79545684/136429745-b2140ee0-3a45-4f14-8966-05cb09535abb.png)
-###### Link directo: https://sfeads.github.io/Soporte-Descktop/login.html
+###### Link directo: https://sfeads.github.io/Soporte-Des/login.html
 
 ------------
 
@@ -67,7 +67,7 @@
 ###### En esta actividad debíamos de replicar el wireframe Login 02 de School ERP
 
 ![image](https://user-images.githubusercontent.com/79545684/136431470-58ef703d-60ca-42b2-b3ef-fa049f178b0f.png)
-###### Link directo: https://sfeads.github.io/Soporte-Descktop/login2.html
+###### Link directo: https://sfeads.github.io/Soporte-Des/login2.html
 
 ------------
 
